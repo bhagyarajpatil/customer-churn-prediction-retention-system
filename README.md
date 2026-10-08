@@ -128,6 +128,7 @@ The project can evaluate multiple classification algorithms, including:
 * Random Forest
 * Gradient Boosting
 * XGBoost
+* LightGBM 
 
 The selected model is trained on historical customer data and used to predict the likelihood of churn for new customers.
 
