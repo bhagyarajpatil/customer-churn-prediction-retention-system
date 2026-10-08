@@ -305,7 +305,7 @@ This project demonstrates practical experience in:
 
 ## 📌 Project Purpose
 
-This project was developed as a practical **Machine Learning and Data Analytics portfolio project** to demonstrate how customer data can be transformed into actionable business insights and predictive solutions.
+This project was developed as a practical **Machine Learning and Data Scientist portfolio project** to demonstrate how customer data can be transformed into actionable business insights and predictive solutions.
 
 ---
 
